@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends. 
 
-##Great Britain Musicals Market 
+## Great Britain Musicals Market 
 This analysis shows if with a budget of £4000, the project will be successful. 
 * The mean goal is near £4000.
 * But, the mean pledged is near £1000. And the highest point within 1.5 * IQR of upper quartile is near £3000.    
