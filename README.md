@@ -1,13 +1,27 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends. 
+# Kickstarting with Excel
 
-## Great Britain Musicals Market 
-This analysis shows if with a budget of £4000, the project will be successful. 
-* The mean goal is near £4000.
-* But, the mean pledged is near £1000. And the highest point within 1.5 * IQR of upper quartile is near £3000.    
-* Meaning, the goal is outside of the range of outliers for amount pledged.
+## Overview of Project
 
-Is recommended to set the goal lower than £3000 for a successful campaign.
+### Purpose
+Visualize and analyze the different theater's plays campaign outcomes based on their launch dates and their funding goals.
 
-![GB_Musicals_Goal_vs_Pledged](https://user-images.githubusercontent.com/21972342/133207527-3372f8af-b9d4-4987-9315-b136b0e920f2.png)
+### Backgorund
+Louise’s play Fever came close to its fundraising goal in a short amount of time. She wants to know how different campaigns fared in relation to their launch dates and their funding goals.
 
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
