@@ -20,7 +20,7 @@ These are the conclusions based on historical data from 2009 to 2017:
 ### Analysis of Outcomes Based on Goals
 Based on the kickstarter goals trend, the following conclusions were drawn:
 * Successful plays had a goal less than $5,000 (73% success rate).
-* If the goal is too high, greater than %45,000; the goal will not be met (11% success rate).  
+* If the goal is too high, greater than $45,000; the goal will not be met (11% success rate).  
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/21972342/134098355-8f5c3125-a5ef-498d-ad8e-429bd3797e3c.png)
 
