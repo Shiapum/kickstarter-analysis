@@ -32,9 +32,9 @@ The difficulty of working with pivot table is presented when the data is not cor
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  * The best month to launch the fundraisng is May, with a 67% success rate, followed by June, with a 65% success rate. 
-  * Contrary, the worst month to launch the fundraisign is December, with a 49% success rate. 
-
+  * The best months to launch the fundraisng are May and June. 
+  * Contrary, the worst month to launch the fundraisign is December.
+  
 - What can you conclude about the Outcomes based on Goals?
   * The higher the goal the higher the difficulty to achieve successful fundraisng. Highest successful rate can be found below the $5000 goal.
 
