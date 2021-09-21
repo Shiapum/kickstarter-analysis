@@ -40,7 +40,7 @@ The difficulty of working with pivot table is presented when the data is not cor
 
 - What are some limitations of this dataset?
   * The limitation I can see is that the data has not been updated since 2017. If the dataset is continuosly updated, we should be able to find newer trends. 
-  * New columns we can add are goal in USD and pledged in USD, to standarize the currency in the dataset and have a    
+  * New columns we can add are goal in USD and pledged in USD, to standarize the currency in the dataset and have a better "outcomes based on goals" table.     
 
 - What are some other possible tables and/or graphs that we could create?
   * Some information that can help to deepen the conclusion can be:
